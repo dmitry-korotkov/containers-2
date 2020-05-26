@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/b05ra8te706mjn64?svg=true)](https://ci.appveyor.com/project/dmitry-korotkov/containers-2)
